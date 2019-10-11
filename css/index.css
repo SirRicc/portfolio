@@ -1,0 +1,91 @@
+body {
+  padding: 0px;
+  margin: 0px 150px;
+  background-image: url("./img/bg_temp2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: local;
+  background-color: black;
+}
+
+                    /* landing section */
+
+.landing {
+  height: 110vh;
+  letter-spacing: 3px;
+}
+
+.text {
+  display: inline-block;
+  margin-top: 100px;
+}
+
+.callToAction {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 25%;
+  left: 66%;
+}
+
+.callToAction img {
+  margin-bottom: 110px;
+  background-size: auto;
+
+}
+
+.w {
+  width: 4px;
+  margin: auto;
+  height: 300px
+}
+
+h1, h4 {
+  background-color: rgba(10, 10, 10, 0.7);
+  padding: 15px;
+  color: white;
+  display: inline;
+}
+
+h3 {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 15px;
+  color: black;
+  display: inline;
+  margin-left: 25px;
+}
+
+h1 {
+  font-size: 90px;
+}
+h4 {
+  position: relative;
+  top: 15px;
+  left: 15px;
+  font-size: 30px;
+}
+
+                    /* show section */
+/*
+.carousell {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 75px 0px;
+}
+
+.small {
+  width: 200px;
+  height: 150px;
+  border: 1px solid white;
+  margin: auto;
+}
+
+.big {
+  width: 400px;
+  height: 300px;
+  border: 1px solid white;
+  margin: auto;
+} */
+
+                    /* socials section */
